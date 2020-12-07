@@ -1,6 +1,6 @@
 # splash_screen
 
-A new Flutter application.
+Flutter Splash Screen.
 
 ## Getting Started
 
