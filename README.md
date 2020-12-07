@@ -1,4 +1,4 @@
-# splash_screen
+# Splash_screen
 
 Flutter Splash Screen.
 
